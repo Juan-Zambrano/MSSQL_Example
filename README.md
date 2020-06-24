@@ -1,4 +1,4 @@
-# MSSQL_Example
+# MSSQL Example
 Introduction to microsoft SQL. **This repo is a working progress**
 
 Below are the paths to directories consisting of lesson plans and exercise's.

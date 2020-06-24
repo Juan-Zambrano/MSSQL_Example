@@ -13,7 +13,6 @@ Click below to jump to activity
 
 
 Test video
-![](https://www.youtube.com/watch?v=unU9vpLjHRk)
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=unU9vpLjHRk)
+
+[](https://www.youtube.com/watch?v=unU9vpLjHRk)

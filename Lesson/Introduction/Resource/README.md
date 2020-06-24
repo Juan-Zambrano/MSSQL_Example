@@ -36,3 +36,7 @@ Install
    ii) Configure ADS
         
 
+
+## Instruction video
+This is a test below
+[![](http://img.youtube.com/vi/unU9vpLjHRk/0.jpg)](http://www.youtube.com/watch?v=unU9vpLjHRk "")

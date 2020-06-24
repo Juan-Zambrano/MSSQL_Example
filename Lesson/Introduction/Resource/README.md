@@ -18,8 +18,11 @@ Install
         
   ![](https://github.com/Juan-Zambrano/MSSQL_Example/blob/master/Lesson/Introduction/Resource/image.png)
             
+  Password is *Password2020!* ,**Please never use this password in a production setting or with sensitive data.**
     
-    
+         4. If you see AdventureWorks as a listed database, then you are complete.
+         
+         
 
 ** MAC or Linux**
 Install

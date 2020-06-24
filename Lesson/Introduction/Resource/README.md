@@ -6,6 +6,7 @@
 After installing, make sure you have docker running on your computer.
 
 **Windows**
+
 Install
 
    i) [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)

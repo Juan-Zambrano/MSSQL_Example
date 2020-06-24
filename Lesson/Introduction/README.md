@@ -7,10 +7,10 @@ Here we have microsoft sql basic syntax.
 
 |Clause | Meaning   | 
 |---|---|
-| SELECT| Query data against a single table  |
+| SELECT| Query data against a single table.  |
 |  FROM |  Table or entit that the user is pulling from. |
-|  WHERE|  Filter rows in the output of a query based on one or more conditions |
-|ORDER BY| Sort result based on value's |
+|  WHERE|  Filter rows in the output of a query based on one or more conditions. |
+|ORDER BY| Sort result based on value's. |
 |GROUP BY| Group the query result based on the values in a specified list of column expressions.|
 |DISTINCT| Distinct values in one or more columns of a table.|
 |LIKE| Check if a character string matches a specified pattern.|

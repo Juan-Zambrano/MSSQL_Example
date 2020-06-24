@@ -1,7 +1,7 @@
 ###                                                          Refresher on SQL and introduction to Microsoft SQL
 
 ---
-This course is designed for those who have some sql experience but are new to to microsoft flavor of sql(T-SQL) 
+This course is designed for those who have some sql experience but are new to microsofts' flavor of sql (T-SQL). First make sure that you have the appropriate installs. Click here for [instructions](https://github.com/Juan-Zambrano/MSSQL_Example/tree/master/Lesson/Introduction/Resource).
 
 Here we have microsoft sql basic syntax.
 
@@ -27,5 +27,4 @@ Below is an awesome joins cheat sheet to use *Thank you Steve Stedman*.
 
 
 
-After reviewing some of these joins and the logic behind it, let's set up microsoft sql server.
 

@@ -1,6 +1,6 @@
 # MSSQL Example
 Introduction to microsoft SQL. **This repo is a working progress**
 
-Below are the paths to directories consisting of lesson plans and exercise's.
+Click below to jump to activity
 ---
 [Basic Query in MSSQL](https://github.com/Juan-Zambrano/MSSQL_Example/tree/master/Lesson/Introduction)

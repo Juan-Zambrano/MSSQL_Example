@@ -3,7 +3,9 @@
 
 1. Install: [docker](https://docs.docker.com/engine/install/) **Choose the your operating system** 
 
-** Windows**
+After installing, make sure you have docker running on your computer.
+
+**Windows**
 Install
 
    i) [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
@@ -25,8 +27,7 @@ Install
    4. If you see AdventureWorks as a listed database, then you are complete.
          
          
-
-** MAC or Linux**
+**MAC or Linux**
 Install
 
    i)[Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15#get-azure-data-studio-for-macos)

@@ -21,6 +21,8 @@ Here we have microsoft sql basic syntax.
 ---
 Let's go over the basic syntax 
 
+
+Below is an awesome joins cheat sheet to use *Thank you Steve Stedman*.
 ![](https://stevestedman.com/wp-content/uploads/TSqlJoinTypePoster.png)
 
 

@@ -15,4 +15,4 @@ Click below to jump to activity
 Test video
 
 
-![](https://www.youtube.com/watch?v=unU9vpLjHRk)
+[![](http://img.youtube.com/vi/unU9vpLjHRk/0.jpg)](http://www.youtube.com/watch?v=unU9vpLjHRk "")

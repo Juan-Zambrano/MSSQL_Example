@@ -12,7 +12,7 @@ Install
         1. docker build -t dockerfile .
         2. docker run -p 1433:1433 -d dockerfile
         3. Open up SSMS and fill in as such. 
-        ![](https://github.com/Juan-Zambrano/MSSQL_Example/blob/master/Lesson/Introduction/Resource/image.png)
+         ![](https://github.com/Juan-Zambrano/MSSQL_Example/blob/master/Lesson/Introduction/Resource/image.png)
             
     
     

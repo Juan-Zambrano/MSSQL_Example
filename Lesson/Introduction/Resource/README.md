@@ -31,7 +31,7 @@ Install
 **MAC or Linux**
 Install
 
-   i)[Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15#get-azure-data-studio-for-macos)
+   i)[Azure Data Studio](https://www.youtube.com/watch?v=04XTRrSJic8&t=453s)
 
    ii) Configure ADS
         

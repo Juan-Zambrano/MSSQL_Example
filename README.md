@@ -6,9 +6,9 @@ Introduction to microsoft SQL. **This repo is a working progress**
 ---
 Click below to jump to activity
 ---
-[Basic Query in MSSQL](https://github.com/Juan-Zambrano/MSSQL_Example/tree/master/Lesson/Introduction)
+  1. [Basic query in MSSQL](https://github.com/Juan-Zambrano/MSSQL_Example/tree/master/Lesson/Introduction)
 
-[Adding new database and more MSSQL](https://github.com/Juan-Zambrano/MSSQL_Example/tree/master/Lesson/BikeStore/Resource)
+  2. [Adding new database and more MSSQL](https://github.com/Juan-Zambrano/MSSQL_Example/tree/master/Lesson/BikeStore/Resource)
 
 
 

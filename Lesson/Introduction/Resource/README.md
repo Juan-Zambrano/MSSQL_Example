@@ -39,4 +39,4 @@ Install
 
 ## Instruction video
 This is a test below
-[![https://i.ytimg.com/vi/04XTRrSJic8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAaZqogNWXpLcWG_azhOUgkTaeWNQ](https://www.youtube.com/watch?v=04XTRrSJic8)
+[![https://i.ytimg.com/vi/04XTRrSJic8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAaZqogNWXpLcWG_azhOUgkTaeWNQ](https://www.youtube.com/watch?v=04XTRrSJic8)

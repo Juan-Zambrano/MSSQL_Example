@@ -8,6 +8,8 @@ Click below to jump to activity
 ---
 [Basic Query in MSSQL](https://github.com/Juan-Zambrano/MSSQL_Example/tree/master/Lesson/Introduction)
 
+[Adding new database and more MSSQL](https://github.com/Juan-Zambrano/MSSQL_Example/tree/master/Lesson/BikeStore/Resource)
+
 
 
 
